@@ -1,2 +1,3 @@
 1st line of file1.txt
-3nd line written on cloud
+2nd line written on local PC; 3nd line written on cloud
+
