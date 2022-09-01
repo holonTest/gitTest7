@@ -1,1 +1,2 @@
 1st line of file1.txt
+2nd line written on local PC
