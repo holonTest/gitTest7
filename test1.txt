@@ -1,3 +1,5 @@
 line 1 from cloud
 line 2 local change from cloud
+line 2 local changed
+line 3 local
 
